@@ -56,7 +56,7 @@ This project involves:
 ## 📊 **Power BI Dashboard**
 ![image](https://github.com/user-attachments/assets/46f9a1ce-105b-4978-b2c7-fbb8bba36e1f)
 ---
-## 🖼️ **Dashboard visuals Explanation**
+## 🖼️ **Dashboard Key Visuals Explanained**
 ### **1. Revenue by Office Location**
 ![image](https://github.com/user-attachments/assets/fc95d8bd-67bc-4c4e-b00d-f441feae7830) 
 ---
