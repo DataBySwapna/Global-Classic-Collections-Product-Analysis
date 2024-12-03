@@ -1,9 +1,7 @@
 # 🌎 **Global Classic Collections Product Analysis** 🏎️✈️
 
 Welcome to the **Global Classic Collections Product Analysis** project! This study leverages data from the Classicmodels database to uncover actionable insights for improving the business performance of a premium retailer offering high-end collectible products like model cars and airplanes.
-
-![image](https://github.com/user-attachments/assets/72e60cc7-aec4-40fd-920c-4501485bd507)
-
+![image](https://github.com/user-attachments/assets/94948690-230b-4df5-91bf-571a7ddbba50)
 ---
 ## 🎯 **Goal**
 Analyze sales and performance data to address three critical business questions:
