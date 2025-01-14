@@ -41,7 +41,9 @@ This project involves:
 
 ---
 ## 🧩 **Steps Followed**
-#### Please refer the document [Power Query Data Extraction and Transformation] for detailed steps followed
+
+#### Please refer to the document [Power Query Data Extraction and Transformation](https://github.com/DataBySwapna/Global-Classic-Collections-Product-Analysis/blob/main/Power%20Query%20Data%20Extraction%20and%20Transformation.docx) for detailed steps followed.
+
 1. **Data Setup**:
    - Downloaded and set up the Classicmodels database in MySQL.
    - Connected Power Query to extract tables like `Orders`, `OrderDetails`, `Products`, and `Payments`.
