@@ -33,6 +33,7 @@ This project involves:
 
 ---
 ## 📈 **Results**
+#### Please refer the Power Point Presentation [ClassicModels_PowerBI_Project] for detailed summary
 1. The **Paris office** leads in revenue, while **Tokyo underperforms** due to local preferences and marketing gaps.
 2. **Classic Cars** is the top-performing product line, followed by Vintage Cars and Motorcycles.
 3. A forecast for **Classic Cars revenue** predicts ~$455,953 for the next quarter.
@@ -40,6 +41,7 @@ This project involves:
 
 ---
 ## 🧩 **Steps Followed**
+#### Please refer the document [Power Query Data Extraction and Transformation] for detailed steps followed
 1. **Data Setup**:
    - Downloaded and set up the Classicmodels database in MySQL.
    - Connected Power Query to extract tables like `Orders`, `OrderDetails`, `Products`, and `Payments`.
