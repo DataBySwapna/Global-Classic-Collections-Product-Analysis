@@ -33,7 +33,8 @@ This project involves:
 
 ---
 ## 📈 **Results**
-#### Please refer the Power Point Presentation [ClassicModels_PowerBI_Project] for detailed summary
+📊📘 **Please refer to the PowerPoint Presentation** [ClassicModels_PowerBI_Project](https://github.com/DataBySwapna/Global-Classic-Collections-Product-Analysis/blob/main/Swapna_Macha_ClassicModels_PowerBI_Project.pptx) **for a detailed summary.**
+
 1. The **Paris office** leads in revenue, while **Tokyo underperforms** due to local preferences and marketing gaps.
 2. **Classic Cars** is the top-performing product line, followed by Vintage Cars and Motorcycles.
 3. A forecast for **Classic Cars revenue** predicts ~$455,953 for the next quarter.
@@ -42,7 +43,7 @@ This project involves:
 ---
 ## 🧩 **Steps Followed**
 
-#### Please refer to the document [Power Query Data Extraction and Transformation](https://github.com/DataBySwapna/Global-Classic-Collections-Product-Analysis/blob/main/Power%20Query%20Data%20Extraction%20and%20Transformation.docx) for detailed steps followed.
+📄✨ **Please refer to the document** [Power Query Data Extraction and Transformation](https://github.com/DataBySwapna/Global-Classic-Collections-Product-Analysis/blob/main/Power%20Query%20Data%20Extraction%20and%20Transformation.docx) **for detailed steps followed.**
 
 1. **Data Setup**:
    - Downloaded and set up the Classicmodels database in MySQL.
